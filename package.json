@@ -29,10 +29,7 @@
   },
   "engines": {
     "node": "v16.16.0",
-    "npm": "v8.11.0",
-    "make",
-    "python",
-    "build-essential"
+    "npm": "v8.11.0"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
